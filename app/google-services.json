@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1013006930307",
+    "firebase_url": "https://rancon-e4235.firebaseio.com",
+    "project_id": "rancon-e4235",
+    "storage_bucket": "rancon-e4235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013006930307:android:057f05f76ca3d562",
+        "android_client_info": {
+          "package_name": "com.rancon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013006930307-m7pqq6kfd0gluh0519fb2cr5mcqqopcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY7E3l3iMONbWU_MNmkA0VLFKRnqxEqVg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

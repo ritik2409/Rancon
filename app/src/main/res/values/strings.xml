@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RanCon</string>
+    <string name="facebook_app_id">1613953922045827</string>
+    <string name="fb_login_protocol_scheme">fb1613953922045827</string>
+</resources>
